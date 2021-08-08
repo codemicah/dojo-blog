@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My New Website",
+      "body": "Lorem ipsum...",
+      "author": "Micah Elijah",
+      "id": 1
+    },
+    {
+      "title": "Welcome Party",
+      "body": "It's my welcome party today...",
+      "author": "Josephine, Brown",
+      "id": 2
+    },
+    {
+      "title": "Back End Developer",
+      "body": "Hello new Blog",
+      "author": "mario",
+      "id": 3
+    }
+  ]
+}
